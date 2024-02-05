@@ -1,0 +1,23 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Myrthe Vel Tromp",
+    "section": "",
+    "text": "About me\nI’m Myrthe, a PhD student at the University of Amsterdam. As part of the GUTS consortium (https://gutsproject.com), I investigate academic buoyancy and academic resilience in teenagers aged 10-14."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About me",
+    "section": "",
+    "text": "About me! I am super interesting!"
+  },
+  {
+    "objectID": "CV.html",
+    "href": "CV.html",
+    "title": "CV",
+    "section": "",
+    "text": "CV Myrthe (last update: 2023)"
+  }
+]
